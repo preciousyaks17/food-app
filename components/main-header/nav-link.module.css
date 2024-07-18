@@ -6,8 +6,7 @@
   border-radius: 0.5rem;
 }
 
-.link:hover,
-.link:active {
+.link:hover {
   background: linear-gradient(90deg, #ff8a05, #f9b331);
   background-clip: text;
   -webkit-background-clip: text;
